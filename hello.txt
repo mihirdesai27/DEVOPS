@@ -1,5 +1,2 @@
 "Hello World" 
 "New change" 
-"New change" 
-"New change" 
-"New change" 
